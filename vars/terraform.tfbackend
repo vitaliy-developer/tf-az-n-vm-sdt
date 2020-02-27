@@ -1,0 +1,5 @@
+storage_account_name="terraformstate238"
+container_name="terraformstate-tst"
+access_key="oqlEXta9IsyKlbSpgWToqzSG8Fij3xiITyavDesCu8KpAZ2y9XH4Ki65L29DAE3WZsOUxW9mINO4z5eNa6dAJQ=="
+key="tst.tfstate"
+resource_group_name="Terraform-States"
